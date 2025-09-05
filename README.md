@@ -92,7 +92,6 @@ Contribuições são bem-vindas! Siga este fluxo:
 ### Licença
 Defina aqui a licença do projeto (por exemplo, MIT). Se não houver uma ainda, considere adicionar um arquivo `LICENSE`.
 
-### Autor
-Projeto mantido por Mateus.
+Projeto feito por mim em conjunto com João Victor e Arthur Nicolas no segundo período da faculdade.
 
 
